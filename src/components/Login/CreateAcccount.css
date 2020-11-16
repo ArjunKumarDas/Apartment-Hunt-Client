@@ -1,0 +1,30 @@
+
+.create-card{
+    padding: 30px 40px;
+    width: 450px;
+    border: 1px solid black;
+    border-radius: 5px;
+   
+}
+.border-bottom{
+    width: 97%;
+    border: none;
+    padding-top: 15px;
+    margin-bottom: 3px solid rgb(87, 85, 85);
+ 
+}
+.btn-color{
+    width: 97%;
+    background-color:  #275A53 !important;
+    color: white;
+}
+
+.s-border{
+    border: 1px solid gray !important;
+    border-radius: 30px !important;
+}
+.s-border img{
+    height: 30px;
+    padding-right: 50px;
+}
+
