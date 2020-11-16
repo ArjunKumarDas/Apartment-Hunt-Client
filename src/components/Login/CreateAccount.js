@@ -26,15 +26,14 @@ const CreateAccount = () => {
                           
                        </Form>
                </Row>
-               <Row className="justify-content-md-center mt-2"> 
-                       <p>or</p>
-               </Row>
+                <div className="text mt-2"><p>or</p></div>
+               
                  <Row className="justify-content-md-center mt-1">
-                 <Button className="s-border pl-1 pr-5" variant="light"  ><img src={facebook} alt="" /> Continue with Facebook</Button>
+                    <Button className="s-border pl-1 pr-5" variant="light"  ><img src={facebook} alt="" /> Continue with Facebook</Button>
                       
                    </Row>
                <Row className="justify-content-md-center mt-2">
-               <Button className="s-border pl-1 pr-5" variant="light"  ><img src={googleIcon} alt="" /> Continue with Google</Button>
+                      <Button className="s-border pl-1 pr-5" variant="light"  ><img src={googleIcon} alt="" /> Continue with Google</Button>
                     </Row>
             </Container>
         </div>

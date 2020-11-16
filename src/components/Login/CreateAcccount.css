@@ -25,6 +25,8 @@
 }
 .s-border img{
     height: 30px;
-    padding-right: 50px;
+    padding-right: 45px;
 }
-
+.text{
+    text-align: center;
+}
